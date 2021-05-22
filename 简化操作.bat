@@ -5,7 +5,7 @@ title   Git Working
 cls 
 echo git’Àªß:  jhfwb
 echo git√‹¬Î:  jhfwb512.
-echo  ¡Ó≈∆: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
+echo  ¡Ó≈∆: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
 goto selectAll
 
 pause
